@@ -1,2 +1,3 @@
 # 100-days-of-Deep-Learning
-<img width="686" height="478" alt="image" src="https://github.com/user-attachments/assets/b02dca12-ae26-4d88-b713-06a6e8c1d053" />
+<img width="700" height="1190" alt="image" src="https://github.com/user-attachments/assets/ca4010d7-cfa5-4eaf-a6fb-fa4b8c80cf20" />
+
